@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634368970 source:c:\users\user\desktop\c++\10-16-2021\mod4\main.cpp
+	"mylist.h"
+
+1634366389 source:c:\users\user\desktop\c++\10-16-2021\mod4\mylist.cpp
+	"mylist.h"
+
+1634366437 c:\users\user\desktop\c++\10-16-2021\mod4\mylist.h
+	<iostream>
+
